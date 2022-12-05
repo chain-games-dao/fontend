@@ -47,6 +47,52 @@ If you won you would see a withdraw button when you connect you wallet
 
 
 
+</br>
+</br>
+ADMIN WRITE FUNCTIONS
+
+<ul>
+<li>DrawWinnerTicket</li>
+<li>RefundAll</li>
+<li>WithdrawCommission</li>
+<li>
+restartDraw
+</li>
+</ul>
+
+</br>
+</br>
 
 
+PLAYERS WRITE FUNCTIONS
 
+
+<ul>
+<li>
+BuyTickets
+</li>
+<li>
+WithdrawWinnings
+</li>
+</li>
+</ul>
+
+</br>
+</br>
+
+
+READ FUNCTIONS
+
+<ul>
+
+<li> CurrentWinningReward </li>
+<li> IsWinner </li>
+<li> RemainingTickets</li>
+<li> checkWinningsAmount </li>
+<li>getTickets </li>
+<li> getWinningsForAddress</li>
+<li>lastWinner </li>
+<li> lastWinnerAmount</li>
+<li>operatorTotalCommission </li>
+<li> winnings</li> etc
+</ul>
