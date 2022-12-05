@@ -24,7 +24,7 @@ const Banner = () => {
     Play <br /> To Earn Game
   </h1>
   <p className="text-left mt-5 text-white font-light md:w-9/12 w-11/12 text-base">
-    Golden Games is the best lottery game in crypto.
+    Chain Games Dao is the best lottery game in crypto.
   </p>
   {!userAddress && (
     <button
