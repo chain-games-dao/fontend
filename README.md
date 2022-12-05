@@ -27,6 +27,14 @@ yarn dev or npm run dev
 
 </br></br>
 
+<h1>You want to test it?</h1>
+
+<a href='https://chaingamedao.vercel.app/'>
+LIVE TESTNET 
+</a>
+
+</br></br>
+
 <h1>How to play?</h1>
 
 A player can buy tickets using MATIC. 
